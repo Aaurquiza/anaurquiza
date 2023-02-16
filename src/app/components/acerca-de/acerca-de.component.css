@@ -2,7 +2,7 @@
   padding: 15px;
 }
 div{
-  background-color: #b9fbc0 ;
+  background-color: #979DAC ;
   /*text-align: center;*/
 }
 /*estilo del nombre*/
@@ -20,13 +20,13 @@ h6{
     width: 15%;
     top: 350px;
     
-    box-shadow:1px 2px 2px #ff97b7;
+    box-shadow:1px 2px 2px #001845;
       }
     }
 @media(max-width:575px){
      #fotoPerfil{
       position: absolute;
-      box-shadow: 1px 2px 2px #ff97b7;
+      box-shadow: 1px 2px 2px #001845;
       width: 30%;
       left: 33%;
       top: 50%;
@@ -36,7 +36,7 @@ h6{
 
 #fotoPerfil{
   border-radius: 80px;
-  border-style: solid #ff97b7;
+  border-style: solid #001845;
 }
 /*
 #acerca{
