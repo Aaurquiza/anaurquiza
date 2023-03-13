@@ -10,8 +10,16 @@ img{
 
 }
 
+
+
 .redes:hover {filter: saturate(180%);
 -webkit-transform: rotate(360deg);transform: rotate(360deg)}
 div {background:#001233
 
+}
+
+#log {
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 8px;
 }

@@ -1,0 +1,12 @@
+div {
+    background-color: #979DAC;
+  }
+
+  p {
+    color: rgb(51, 65, 92);
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 20px;
+}
