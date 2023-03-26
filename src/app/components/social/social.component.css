@@ -1,4 +1,25 @@
 img{
+  padding-top: 7px;
+  padding-left: 4px;
   width: 50px;
-  
+  border-radius: 30%;
+  border-top-left-radius: 35%;
+  border-top-right-radius: 35%;
+  transition:all .4s ease-in-out;
+  height: auto;
+
+}
+
+
+
+.redes:hover {filter: saturate(180%);
+-webkit-transform: rotate(360deg);transform: rotate(360deg)}
+div {background:#001233
+
+}
+
+#log {
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 8px;
 }
